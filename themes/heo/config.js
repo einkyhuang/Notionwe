@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到Formore', url: 'https://www.nftnft.vip/' },
+    { title: '欢迎来到Formore，乐分享', url: 'https://www.nftnft.vip/' },
   ],
 
   // 英雄区(首页顶部大卡)
@@ -95,8 +95,8 @@ const CONFIG = {
 
   SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   SOCIAL_CARD_TITLE_1: '交流频道',
-  SOCIAL_CARD_TITLE_2: '加入我们的社群全站資源',
-  SOCIAL_CARD_TITLE_3: '点击加入社群',
+  SOCIAL_CARD_TITLE_2: '欢迎加入我们',
+  SOCIAL_CARD_TITLE_3: 'QQ：16019537',
   SOCIAL_CARD_URL: 'https://nftnft.vip',
 
   // *****  以下配置无效，只是预留开发 ****
