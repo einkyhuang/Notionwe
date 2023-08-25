@@ -94,10 +94,10 @@ const CONFIG = {
   ],
 
   SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  SOCIAL_CARD_TITLE_1: '交流频道',
-  SOCIAL_CARD_TITLE_2: '欢迎加入我们',
-  SOCIAL_CARD_TITLE_3: 'QQ：16019537',
-  SOCIAL_CARD_URL: 'https://nftnft.vip',
+  SOCIAL_CARD_TITLE_1: '部分博客加密',
+  SOCIAL_CARD_TITLE_2: '请点击此处获取',
+  SOCIAL_CARD_TITLE_3: 'QQ：3603650240',
+  SOCIAL_CARD_URL: 'https://afdian.net/item/873804d4434811eebf1b52540025c377',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
