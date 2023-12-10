@@ -14,7 +14,7 @@ const CONFIG = {
   HERO_TITLE_3: ' Formore Ai',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: '免魔法GPT 轻松使用GPT',
-  HERO_TITLE_LINK: 'https://chat.chengzishule.com',
+  HERO_TITLE_LINK: 'https://ai.chengzishule.com',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -31,7 +31,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  INFO_CARD_URL: 'https://nftnft.vip', // 个人资料底部按钮链接
+  INFO_CARD_URL: 'https://formore.chengzishule.com', // 个人资料底部按钮链接
 
   // 用户技能图标
   GROUP_ICONS: [
