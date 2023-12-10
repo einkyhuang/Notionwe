@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到Formore，乐分享', url: 'https://www.nftnft.vip/' },
+    { title: '欢迎来到Formore，乐分享', url: 'https://formore.chengzishule.com' },
   ],
 
   // 英雄区(首页顶部大卡)
@@ -14,12 +14,12 @@ const CONFIG = {
   HERO_TITLE_3: ' Formore Ai',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: '免魔法GPT 轻松使用GPT',
-  HERO_TITLE_LINK: 'https://ai.chengzishule.com',
+  HERO_TITLE_LINK: 'https://ai.chengshule.com',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HERO_CATEGORY_2: { title: 'Midjourney精選', url: '/tag/Midjourney' },
-  HERO_CATEGORY_3: { title: 'ChatGPT匯總', url: '/tag/ChatGPT' },
+  HERO_CATEGORY_2: { title: 'Midjourney精选', url: '/tag/Midjourney' },
+  HERO_CATEGORY_3: { title: 'ChatGPT汇总', url: '/tag/ChatGPT' },
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
